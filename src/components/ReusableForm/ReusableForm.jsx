@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 
 
 const ReusableForm = ({formTitle, handleSubmit, submitBtnText = 'Submit', children}) => {
